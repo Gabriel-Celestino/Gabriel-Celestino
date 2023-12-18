@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Estudante de Engenharia de Software (UNIFAE) cursando terceiro semestre atualmente.
+Sou Estudante de Engenharia de Software (UNIFAE) cursando terceiro semestre .
 
 
 ## 🌐 Socials:
