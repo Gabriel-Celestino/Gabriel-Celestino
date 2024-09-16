@@ -1,7 +1,7 @@
 # 💫 About Me:
 Sou Estudante de Engenharia de Software (UNIFAE), onde tenho a oportunidade de explorar e aprimorar minhas habilidades no vasto mundo da programação. Iniciei minha formação em 2023 e o fim do mesmo está previsto para 2026.
 
-Tenho contato contato com diferentes tecnologias como HTML, CSS, JavaScript e C.
+Tenho contato contato com diferentes tecnologias como HTML, CSS, JavaScript,C e Java.
 
 Sou ágil para aprender novas linguagens e me adapto a qualquer mudança, pronto para qualquer situação.
 Ser otimista, esforçado e perseverante são palavras que me definem!
